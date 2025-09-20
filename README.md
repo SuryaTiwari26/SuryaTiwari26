@@ -1,5 +1,23 @@
-# Hi there 👋
+# 💫 Hi 👋, I'm Surya Kant Tiwari
 
+<div align="center">
+  <img src="https://github.com/MohamedHussein27/My_Profile/blob/main/readme_image.gif" alt="Digital Electronics Engineer">
+</div>
+
+<h2 align="center">
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                  
+</h2>
+
+**A passionate VLSI Design Engineer **
+
+Email Me 👉 ✉️ **surya232100@gmail.com** For Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Digital vlsi design
+- 🌱 **I’m currently learning:** Verilog & UVM
+- 💬 **Ask me about:** vlsi & Digital design , Tech Support
+- 📫 **How to reach me:** surya232100@gmail.com
+- 😄 **Pronouns:** Surya
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-kant-tiwari-0635b9250)
